@@ -1,0 +1,8 @@
+numpy
+pandas
+re
+PIL
+pdf2image
+cv2
+pytesseract
+tesseract
