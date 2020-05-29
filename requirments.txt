@@ -6,3 +6,4 @@ pdf2image
 cv2
 pytesseract
 tesseract
+python
